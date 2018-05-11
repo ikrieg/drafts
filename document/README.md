@@ -21,7 +21,7 @@
 ![курс](img/course.jpg)
 
 ## Схема работы над дипломным проектом
-![схема работы над дипломным проектом](img/diplom-stages.jpg)
+![схема работы над дипломным проектом](img/stages.png)
 
 ## План разделения курса
 Распределение тем, входящих в курс Основы JS и Продвинутй JS, указаны в [таблице](https://docs.google.com/spreadsheets/d/1r0oW0B-BMcTwtI4XDbX09qoTeXcuFntWl45Ta8o_Z3I/edit#gid=0)
